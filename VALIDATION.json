@@ -1,0 +1,12 @@
+{
+  "checks": [
+    "JavaScript return value and Office association",
+    "Manifest XML parsed and resource references checked in Python",
+    "Setup logic tested in Node with mocked DOM/fetch: download URL substitution and missing-file failure"
+  ],
+  "browserTested": false,
+  "browserLimitation": "Headless Chrome could not launch in the execution environment",
+  "officeSchemaValidated": false,
+  "publishedToGitHub": false,
+  "testedInExcel": false
+}

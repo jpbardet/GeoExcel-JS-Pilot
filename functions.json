@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/office-js/custom-functions.schema.json",
+  "functions": [{
+    "id": "GEOEXCEL_VERSION",
+    "name": "GEOEXCEL_VERSION",
+    "description": "Returns the version of the loaded GeoExcel JavaScript library.",
+    "parameters": [],
+    "result": {"type": "string", "dimensionality": "scalar"},
+    "options": {"volatile": false}
+  }]
+}
